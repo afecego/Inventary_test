@@ -29,9 +29,9 @@ Este proyecto es una aplicación web que permite gestionar un inventario de prod
 
 1. Crea entorno virtual y activalo
     python -m venv venv
-    # Windows
+    (Para Windows)
     venv\Scripts\activate
-    # Linux / macOS
+    (Para Linux / macOS)
     source venv/bin/activate
 
 1. Instala dependencias del backend
